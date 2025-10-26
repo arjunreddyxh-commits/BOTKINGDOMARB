@@ -106,7 +106,7 @@ class Txt(object):
 SEND_METADATA = """
 <b>--Metadata Settings:--</b>
 
-➜ /metadata: Turn on or off metadata.
+:) - /metadata: Turn on or off metadata.
 
 <b>Description</b> : Metadata will change MKV video files including all audio, streams, and subtitle titles."""
 
